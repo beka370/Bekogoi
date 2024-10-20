@@ -1,0 +1,68 @@
+.dad-pap {
+    display: flex;
+    justify-content: space-between;
+    color: azure;
+    background-color: black;
+}
+.pap-asd {
+    display: flex;
+    color: azure;
+   align-items: center;
+   gap: 30px;
+   padding-right: 40px;
+}
+.koei {
+    padding-top: 10px;
+    padding-bottom: 200px;
+    background-color: rgb(154, 87, 225);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: azure;
+   
+}
+.msq {
+    display: flex;
+    gap: 50px;
+}
+.msqa {
+    display: flex;
+    gap: 50px;
+}
+.kaz { 
+    padding-top: 100px;
+    background-color: beige;
+    justify-content: space-around;
+    gap: 100px;
+}
+.dad {
+    padding-left:50px;
+}
+span {
+    font-weight: 200;
+}
+.qwer img {
+    height: 100px;
+    width: 100px;
+    padding-top: 30px;
+}
+.krutoi {
+    background-color: black;
+    color: azure;
+    display: flex;
+   gap: 200px;
+   padding-left: 30px;
+}
+h1 {
+    text-align: center;
+    
+}
+h3 {
+    background-color:rgba(255, 255, 255, 0.933);
+    height: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 7px;
+  text-align: center;
+  padding: 30px;
+  color: black;
+}
